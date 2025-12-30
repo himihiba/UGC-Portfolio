@@ -20,8 +20,14 @@ Media assets are hosted externally to ensure good performance and reliable deliv
 
 ## Showcase
 
+![](ugc01.png) |
+
+![](ugc02.png) |
+
 ![Desktop view](desktop.png) |
+
 ![](viewmore.png) |
+
 ![Mobile view](mobile.png) |
 
 
