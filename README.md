@@ -20,9 +20,9 @@ Media assets are hosted externally to ensure good performance and reliable deliv
 
 ## Showcase
 
-![Desktop view]((https://res.cloudinary.com/dtdmjjnnj/image/upload/v1767100559/screencapture-localhost-5173-2025-12-30-13_17_31_ekx1rr.png)) |
-![]((https://res.cloudinary.com/dtdmjjnnj/image/upload/v1767100559/screencapture-localhost-5173-2025-12-30-13_16_46_dzvtp7.png)) |
-![Mobile view]((https://res.cloudinary.com/dtdmjjnnj/image/upload/v1767100559/screencapture-localhost-5173-2025-12-30-13_18_55_kad2zb.png)) |
+![Desktop view](desktop.png) |
+![](viewmore.png) |
+![Mobile view](mobile.png) |
 
 
 ## Features
